@@ -1,2 +1,3 @@
 Public Url to GitHub repository [URL01]: https://github.com/MostafaHasan39/UDAPeople
 Public URL for your S3 Bucket [URL02]: http://udapeople-30994b3.s3.us-west-2.amazonaws.com/index.html
+CloudFront domain name URL:  http://dfjattaw1ix9x.cloudfront.net
